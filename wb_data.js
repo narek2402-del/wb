@@ -1,4 +1,4 @@
-const wb_data = [
+window.rawDatabase = [
   {
     "id": "MSPV50236А1",
     "address": "1-й Амбулаторный проезд, 2",
