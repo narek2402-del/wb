@@ -1,6 +1,6 @@
 // pochta_data.js - База данных и логика для площадок «Почта России»
 
-const pochtaDatabase = [
+window.rawDatabase = [
   { id: 1, name: "ПО_101000", region: "Москва", city: "Москва", address: "Мясницкая ул, 26А, стр.1", lat: 55.764212, lon: 37.637446, traffic: 8273, screens: 20 },
   { id: 2, name: "ПО_105005", region: "Москва", city: "Москва", address: "Бауманская ул, 38, стр.2", lat: 55.771432, lon: 37.677965, traffic: 905, screens: 4 },
   { id: 3, name: "ПО_105037", region: "Москва", city: "Москва", address: "Измайловская пл, 11", lat: 55.794381, lon: 37.774796, traffic: 978, screens: 2 },
