@@ -1,4 +1,4 @@
-window.pochtaDatabase = [
+window.rawDatabase = [
   {
     "id": 1,
     "name": "ПО_100001",
